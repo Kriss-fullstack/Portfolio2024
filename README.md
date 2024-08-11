@@ -13,7 +13,7 @@ Goal: State the ultimate aim of the project, such as identifying specific phenom
 ## Team Members
 
 - Team Member 1: [GitHub](https://github.com/Kriss-fullstack/Portfolio2024)
-- Team Member 2: [GitHub]https://github.com/Levynska-I-DS/Portfolioprojekte2024?tab=readme-ov-file
+- Team Member 2: [GitHub](https://github.com/Levynska-I-DS/Portfolioprojekte2024?tab=readme-ov-file)
 - Team Member 3: [GitHub](https://github.com/xxx)
 
 ## Jupyter Notebooks
