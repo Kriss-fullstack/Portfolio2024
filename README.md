@@ -12,9 +12,9 @@ Significance: Highlight the importance of achieving accurate predictions and how
 Goal: State the ultimate aim of the project, such as identifying specific phenomena, improving detection accuracy, or prioritizing certain areas for more detailed investigation.
 ## Team Members
 
-- Team Member 1: [GitHub](https://github.com/Kriss-fullstack)
-- Team Member 2: [GitHub](https://github.com/Levynska-I-DS)
-- Team Member 3: [GitHub](https://github.com/semihd97)
+- Team Member 1: [Christian](https://github.com/Kriss-fullstack)
+- Team Member 2: [Iryna](https://github.com/Levynska-I-DS)
+- Team Member 3: [Semih](https://github.com/semihd97)
 
 ## Jupyter Notebooks
 
